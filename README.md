@@ -9,6 +9,11 @@ Aplicar la recursividad para resolver un problema paso a paso y entender cómo u
 
 ---
 
+## 📚 Propósito académico
+Esta práctica busca reforzar la comprensión del pensamiento recursivo y su aplicación en el diseño de algoritmos mediante un ejemplo visual, interactivo y dinámico.
+
+---
+
 ## 🧠 Descripción del juego
 La Torre de Hanoi consiste en mover todos los discos desde una torre inicial hasta una torre final, cumpliendo estas reglas:
 - Solo se puede mover **un disco a la vez**.  
